@@ -1,0 +1,10 @@
+### Web ###
+/node_modules/
+www/css/
+www/fonts/
+www/js/
+www/index.html
+www/json/
+src/typings/
+/typings
+/build
